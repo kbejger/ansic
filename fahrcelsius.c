@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* conversion table from fahrenheit to cesius */
+/* conversion table from fahrenheit to celsius */
 /* for values fahr = 0, 20, ..., 300 */
 /* C = 5(F - 32) / 9 */
 
